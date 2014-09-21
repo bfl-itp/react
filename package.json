@@ -1,5 +1,5 @@
 {
-  "name": "blink",
+  "name": "redesign",
   "private": "true",
   "scripts": {
     "test": "grunt"
