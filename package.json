@@ -1,5 +1,5 @@
 {
-  "name": "redesign",
+  "name": "react",
   "private": "true",
   "scripts": {
     "test": "grunt"
